@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/bin/Debug/net6.0/if-else-if
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/bin/Debug/net6.0/if-else-if.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/bin/Debug/net6.0/if-else-if.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/bin/Debug/net6.0/if-else-if.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/bin/Debug/net6.0/if-else-if.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/refint/if-else-if.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/if-else-if.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/if-else-if/obj/Debug/net6.0/ref/if-else-if.dll
